@@ -20,7 +20,7 @@ TAs:\
 Xilin Tang <xt253@cornell.edu>\
 Yuqi Mai <ym562@cornell.edu>\
 Ben Landrum <btl46@cornell.edu>\
-Ben Landrum <btl46@cornell.edu>
+Simon Bertron <sb2684@cornell.edu>
 
 TA Office hours: These will be announced on our Slack instance. Please join the
 #office-hours channel on Slack for virtual OH and expect TA response in 24h.
