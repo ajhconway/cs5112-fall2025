@@ -10,25 +10,24 @@ Classroom: Bloomberg Center 131
 Lecture time: 1:25pm-2:40pm Tuesday/Thursday
 
 Instructor:\
-Alex Conway (https://ajhconway.com/)
+Alex Conway <https://ajhconway.com> <me@ajhconway.com>
 
-Office hours: Alex 2:45-3:30pm Tuesdays (after lecture), Bloomberg 362. Confirm
-with me before class that day ideally via email or Slack (otherwise I will free
+Office hours: Alex 2:00-2:45pm Tuesdays (before lecture), Bloomberg 372. Confirm
+with me the day before ideally via email or Slack (otherwise I will free
 up the time).
 
 TAs:\
 Xilin Tang <xt253@cornell.edu>\
 Yuqi Mai <ym562@cornell.edu>\
-Bo Liu <bl685@cornell.edu>\
-Yixuan Gao <yg478@cornell.edu>\
-Hao Phung <htp26@cornell.edu>
+Ben Landrum <btl46@cornell.edu>\
+Ben Landrum <btl46@cornell.edu>
 
 TA Office hours: These will be announced on our Slack instance. Please join the
 #office-hours channel on Slack for virtual OH and expect TA response in 24h.
 
 ### Slack
 
-Please join the class [Slack](https://join.slack.com/t/cs5112-fall2024/shared_invite/zt-2paj0cjd1-wYmk~IWVXX1dcJ96yn471Q). The Slack is used for announcements, questions, and office hours.
+Please join the class [Slack](https://join.slack.com/t/cs5112-fall2025/shared_invite/zt-3c013gtyp-O2QM0RLlhwpw2UuIWfFroQ). The Slack is used for announcements, questions, and office hours.
 
 ### Pre-requisites
 
@@ -72,4 +71,4 @@ While no textbook is required, we will be basing a lot of content on the [Kleinb
 
 ## Lecture Schedule
 
-The (tentative) lecture and homework schedule can be found [here](https://docs.google.com/spreadsheets/d/1fI9qSRXQI19L43OZwzBc_fsFxwSVE8cHtWldDbcIzTg/edit?usp=sharing).
+The (tentative) lecture and homework schedule can be found [here](https://docs.google.com/spreadsheets/d/1zT9GAvqY2jeSC4aLYf8i0qZznU14goOSmH-bv5d1Zt8/edit?usp=sharing).
